@@ -4,551 +4,557 @@ Title: turn turn turn
 Start word: love
 
 --- Baseline ---
-love no the same a sign
-we used a man
-i see all you can bloom of my
-world the morning
-and i can tell me
-when there's a song
-you just a little hot stuff
-and the night and they go
-but i need a new
-so long for the way all the rain
-don't like a friend that i don't let
-
---- Global MIDI ---
-love i have you
-i've never
-i love to get
-the way
-i think
-you're gonna make you
-but you're no
-and i am you and i just like
-they have to me
-and the wind up
-and i am
-and it's not the time after
-i will you
-so you
-i wanna make you
-i wanna go on this day
-oh
-
---- Aligned MIDI ---
-love love is a new of our
-but you love this day to be just
-want for
-so
-you want to go
-and then you can't stop and
-so long before
-i never had a little hot like a
-man
-i'm already this love your mind
-you're always don't come
-you see the man
-and we can
-so to your side
-so don't
-
-================================================================================
-Artist: the byrds
-Title: turn turn turn
-Start word: night
-
---- Baseline ---
-night after
-the heat too long long it
-i'm not you can't see
-it's the rain
-and if
-so long
-you
-that i don't you
-you're
-the day i'm so young
-i do is it to make a song
-and the love you don't you
-don't don't don't do you see
-you're never get me for you said that
-that i know what
-
---- Global MIDI ---
-night with you
-she's gonna do i do
-don't get down in the only you can
-your eyes
-you're so fine you have
-it's got this
-what you've a new
-the one
-i see
-i'm gonna get to make my name
-so
-i feel
-'cause i think you
-i feel me i will save my dreams
-and i know what
-
---- Aligned MIDI ---
-night
-so many
-i can't you
-when i can i don't you know a
-new
-and we can say to see my love
-come
-what you
-i love i wanna tell me baby doll
-you're not you do
-the old you
-well the fire
-but they you feel you want to tell
-you you want you can do don't like
-a good to have a new town
-
-================================================================================
-Artist: the byrds
-Title: turn turn turn
-Start word: baby
-
---- Baseline ---
-baby
-the way you know that was the day
-and it all i feel the day that
-we can't see
-and it
-the love you want to love a little
-you're the end to see
-that your life
-it's a game
-and i love you come on come to
-dance tonight
-if i'll be
-it now i'm in my heart
-you
-the man
-
---- Global MIDI ---
-baby to do
-and i want it is all that's
-i've got out
-what i am
-it's only one
-and i think to see it
-i say the one i feel you don't
-have
-you
-i see
-i'm
-you make a beautiful
-i don't have it
-i have flown
-i want to you
-you're gone
-and if i need some you need you
-
---- Aligned MIDI ---
-baby
-and he could the way the heat
-you're goin'
-and when you got this love you can't
-you make the things to me in love
-to your eyes
-the way
-and we can be
-i know you're gonna feel my soul brother
-and i need you come in me out
-of my own you think i think
-you
-and i know you can't stop and i've
-been in
-
-================================================================================
-Artist: babyface
-Title: when can i see you again
-Start word: love
-
---- Baseline ---
-love in my name
-what is so hard to the day a
-face my life
-and he was the night
-i don't come on your heart yeah
-you're in the only one
-i want me
-i just can't find in my heart will
-that she didn't so many
-and i want you i want to say
-now you're no diggity
-but
-now the only yesterday
-
---- Global MIDI ---
-love will be so far
-but we can you can love you got
-to your love you
-i can
-all over is a new
-if i see
-now
-now where a little a big
-we can't make you want to a chance
-your way you
-the world i would your hand
-but it's been there
-but we were the time
-to me
-and then you
-
---- Aligned MIDI ---
-love
-and i'm sure you can't
-you're the world
-oh the heat now i'll never
-my world
-when the love the end
-i'll love to be mine
-the way
-the man
-we
-and he flies and the the world
-i don't come on fire is you
-when i think
-to the love the things i don't
-you can't be
-if i'd
-i
-
-================================================================================
-Artist: babyface
-Title: when can i see you again
-Start word: night
-
---- Baseline ---
-night
-i've got of all that i can't let
-her
-i'm the love to see
-oh
-i do i see my love
-now you
-if you do you can't find
-you know the good
-oh oh yeah
-it's just a little girl boy i can't
-have never
-and you and it all you see i
-don't you know i know
-you're all over the sun
-you're
-
---- Global MIDI ---
-night fever oh oh
-oh i say
-and we don't know how you can't take
-the sun and
-the time
-you can be love
-i can't have
-if i want you
-but if it
-and the rain
-you
-you don't even i do that it is
-a chance
-if i just all the wind
-we can fly away
-and i
-
---- Aligned MIDI ---
-night
-i feel
-to your life
-'cause i've been there i'm the same
-and i can take you love in the
-night fever is to the same
-i don't you
-i'm all
-oh oh it's a new
-i know the way to be
-you
-you're my heart
-when we can't never know i need
-it's only one more the love this time
-
-================================================================================
-Artist: babyface
-Title: when can i see you again
-Start word: baby
-
---- Baseline ---
-baby i'm gonna make it i am to
-find me
-i've tried come i can't see in the
-best friend
-it's not always just
-and he knows why i don't i just
-a little boy
-that you got to a day time
-when they say a song
-it's a
-'cause i'm falling
-so much it's gonna do can't you make
-me
-and i just what
-now that i
-
---- Global MIDI ---
-baby
-i know you don't see a friend you
-can't be love you know i would make
-it like the world
-i'm not have known the sun and the
-sky to be at the rain for her
-i do you know to see you
-you and i'll be the rain and i
-can it
-if i'm sorry
-so you don't have to know how
-the night
-
---- Aligned MIDI ---
-baby you're a sign to me
-the world
-to the only just the end for a
-little hot
-but you're a fool my friend to the
-best of the fire behind to love you
-love you say
-and a new
-i'm gonna see
-you need i feel
-but i will be a little time to
-my heart
-when she bop
-i'm not know you can
-
-================================================================================
-Artist: al wilson
-Title: show and tell
-Start word: love
-
---- Baseline ---
-love and i think a heartache with me
-it's my life is a new and
-what
-it's the only more that your superman
-i can't get the way your face
-it's
-you make you i can't you and you
-i don't know you i will be
-you
-i'm in my time
-we don't do you want and it i
-have
-you i know and i can see
-
---- Global MIDI ---
-love you and it's a day
-i am
-and they you
-you know what you make a big
-we can see the man
-i know
-so far for my eyes
-and you know if you know
-and we do a little bit so
-and all of our life
-and all my love my life the best
-that
-if it
-i don't
-
---- Aligned MIDI ---
-love for a good times
-oh yeah
-it's all my way a girl
-and a star
-and he belongs
-you're gonna be there
-it's you think it all the wind for
-you you need a time
-'cause you feel like the man
-i'm a sign me
-you come on the love love
-it's a man can tell me so we
-have of my heart you
-but she
-
-================================================================================
-Artist: al wilson
-Title: show and tell
-Start word: night
-
---- Baseline ---
-night
-that you're so fine
-what
-and the way all a dream to be
-but
-you're you
-i see a sign
-i'm the rain
-so fine and when you were good
-i'm waiting
-what you can
-i'm all you
-i'm not so you are the sun
-what that was of my way the end
-right
-and you and you feel
-
---- Global MIDI ---
-night
-to me
-the end
-you got in a name is the man
-that she can you can you and you
-can tell to go away
-you can it is you do you
-and my way a song
-i'm waiting in the world
-i just to keep to the world my
-heart the one little that i can't be
-with this was the only you know
-
---- Aligned MIDI ---
-night
-and now it's no no no matter my
-heart
-'cause you think you know where i know
-you say
-i'm waiting
-oh whey oh the things we can't go
-the way you think
-my love
-and now to know what that i see
-your side
-and it's like
-now
-the way you like a song with you
-can be in love me
-oh my baby with
-
-================================================================================
-Artist: al wilson
-Title: show and tell
-Start word: baby
-
---- Baseline ---
-baby the heat
-you know you're no midnight to know
-what can it
+love that it
+the end is it
+i can say
 and you
-you want to the sun from of the
-way to love can a day the end
-you do me and the night
-don't don't you
-i know how it it's the the night
-i don't like the best be there was
-so lonely
-it's gone and that we to me yeah
-i
+if you do my heart and the way
+i never never knew
+and a fool that i want to let
+me a little
+the morning
+you're all my soul is
+i'm gonna be at least
+when a big my mind
+you make mistakes the the way
+and the morning
+the
 
 --- Global MIDI ---
-baby
-you
-i'm gonna make me
-i'm not your heart
-you like a little time
-that i can't stop so many
-we can
-to keep
-i see you can you
-so i can't you and i would know
-and they the man
-you
-so much my heart don't be so hard
-to my
-and if you
-now
-i can't see i
-
---- Aligned MIDI ---
-baby i know the time
-when it all the heat
-you feel so bad
-when you can you know why
-now it's not all
-i know
-but don't do
-and when i don't do a man don't
-think it don't see you don't need your
-eyes of love you want you
-my life
-and
-and we are on your body
-i am
-it's
-
-================================================================================
-Artist: celine dion
-Title: because you loved me
-Start word: love
-
---- Baseline ---
-love will see
-that i feel love
-it's no diggity
-the man and it
-i'm gonna get up
-i have been
-i can't have to you said goodbye
-oh oh my heart
-the night
-and that's that
-and you see what a face
-and they go the morning the only one
-i can i could be
-and if i can the road and my
-
---- Global MIDI ---
-love you to take away
-when
-that
-no time
-and the truth you
-and you
-i have you
-when a hand of you do
-when i do
-i want to make my love in love
-oh
-and you don't want to find this world
-baby
-and i'm
-it's in the night the world
-so young for you have i just so
-i do
-i love
-
---- Aligned MIDI ---
-love the the only love this world
-you
-well
-'cause i can make me
-now all alone
-you can do a child
-i've tried her lonely love to do anything
-it
-and a thousand with all you can't make
+love to say to hold me
+the sun
+so the way the same
 you need
-when i have a fool the time
-that you do you don't you love you
-oh i'm a fool so you see
-the the good
+i love
+if i see on the best
+oh oh yeah yeah yeah
+i'm gonna fly on and i feel in
+san antone can't be with me i feel
+it i need you got it
+you won't do you
+and the same now
+i can love me the best can
+
+--- Aligned MIDI ---
+love
+i need to get to you
+you're just your mind
+all the rain
+so
+that we can't see
+and the things to keep on
+i want me
+you are the one that it is this
+way
+i love you
+i will it
+you're a man i am
+i feel the best
+i'm gonna be
+i'm gonna stop the best
+and
+i want to
+
+================================================================================
+Artist: the byrds
+Title: turn turn turn
+Start word: night
+
+--- Baseline ---
+night and the good times
+i want your superman
+you're not
+and it's the good times in my heart
+you and the one more time the good
+to me and i can i have to
+you feel a
+i am
+i'm sure
+if your own
+i was
+that she you
+that way a heartache when i see my
+mind
+so
+
+--- Global MIDI ---
+night and we can't wait
+and you know to be right here up
+in the way me
+i won't
+oh now
+and you think about a beautiful
+i need
+and you say me
+and you won't come on the way that
+i know i know i can't know
+now
+it's it i need
+it's so many times to dance
+oh no one's
+come to find
+
+--- Aligned MIDI ---
+night
+it's been so lonely boy don't be
+and i'm the morning
+it's gonna be there
+and i am the night and i got
+to a dream lover
+the day all over a little of the
+way we can you go
+and i feel so lonely girl
+when you know
+and it now all
+it's
+i got this
+you're never can tell me
+don't i can
+
+================================================================================
+Artist: the byrds
+Title: turn turn turn
+Start word: baby
+
+--- Baseline ---
+baby i have to be
+and the love me
+oh whey oh oh
+and still just let me
+it i can make me
+'cause when the the time
+when it's time
+if
+it's no time for you want to you
+can you
+don't see that i saw you
+i'm not i have a new
+and i want you can be a little
+girl
+you
+
+--- Global MIDI ---
+baby
+i think we go
+but i think
+i'm waiting the fight you love
+don't let her you can't i don't go
+for the last to get
+but it
+i'm so
+it's like they you see
+you want to take the fire
+i love you need
+and it was
+and now you
+i want it
+i don't go you need a dance
+
+--- Aligned MIDI ---
+baby baby
+and i need a little you want it
+that we all i am you know you
+can take
+'cause i want to dance
+it's not so you know i could
+they the music so i love
+and you're goin' in a beautiful
+now i'm waiting in this is a day
+i'm such a man
+you're a new
+you know
+i'm already your heart
+this
+and i'm
+
+================================================================================
+Artist: babyface
+Title: when can i see you again
+Start word: love
+
+--- Baseline ---
+love in a little no no way it
+was a fool
+don't do you make you want to be
+your mind
+so much i do
+and if my way that you're in the
+heat my heart yeah yeah that you're gonna
+get to love a song
+i'm not not never a sign i want
+i'm on the man
+so deep
+you're
+but so hard to be your baby
+
+--- Global MIDI ---
+love you won't my eyes your heart
+and the same man
+now to hold it
+i said it
+i was like the day
+it's the same
+i can't be a lot
+oh oh no good
+oh baby
+i said he's got to love for me
+and i was
+i need a face and i need to
+see
+i can it a big my friend
+
+--- Aligned MIDI ---
+love
+i know to be
+the world
+when you know
+i will bring you don't just have a
+time that we used a girl and all
+the only one time
+i won't
+you can the wind
+don't
+it's a long
+you
+i'm waiting and the day
+i can make it now
+so i can't be with the only thing
+but
+and
+
+================================================================================
+Artist: babyface
+Title: when can i see you again
+Start word: night
+
+--- Baseline ---
+night
+what they say you want you i will
+i don't come
+it's no one
+i've done is on the rain
+it's not the night
+oh my best
+it's a man i want to you know
+no one to be i don't and i'm
+feeling the way
+now to know i'm sorry that it's a
+little the love is not just my baby
+the love
+and the way
+
+--- Global MIDI ---
+night
+i think like a fool that i got
+the stars
+when the truth the world
+when you've gone to me
+i see at my life
+and you and i need a place
+i love that
+i'm right
+the sign a new up your life to
+the way
+but it was the way that love for
+a little girl
+i know
+i'm already to get the
+
+--- Aligned MIDI ---
+night
+and we can be your love you can't
+go for i have some the same to
+see your love
+what i need you i love to me
+but i just want to be
+and all all that
+and the world of
+i can be mine
+it's
+the world
+i will you go
+that i can say
+i can
+that that the morning
+i don't be
+
+================================================================================
+Artist: babyface
+Title: when can i see you again
+Start word: baby
+
+--- Baseline ---
+baby
+and you
+and you
+it's like the day
+'cause i don't you just the night
+i can
+i know
+i have to do you don't know the
+time you don't
+it's gonna be a heartache
+so
+it's the end
+oh
+the sun
+and a new
+you do it
+and the world and you can't go away
+if you're not you were
+
+--- Global MIDI ---
+baby
+and the world
+we are you like i know i have
+your sweet lady
+you
+if i don't know
+if
+i have a time
+there of our love in the best
+i never know to get
+it's
+if i can see
+i do that would only my head at
+me would change
+i don't know it
+so much the world
+but
+
+--- Aligned MIDI ---
+baby if i just let and the day
+the one more than a beautiful for my
+heart i don't just the time the end
+what you know what you have so i
+see
+now you're gonna get away down
+i can
+we can be so many
+oh oh
+and you do it
+but it's
+but a man
+and the way to be a lot you
+
+================================================================================
+Artist: al wilson
+Title: show and tell
+Start word: love
+
+--- Baseline ---
+love my heart
+and i can the heat your baby
+the end right but it's all of your
+heart is what i know
+you said
+when i was
+when i saw of all of a game
+it's not my
+and i could love you are gone
+so you come on a
+you want to make your love like the
+way
+if you said yeah
+i've done
+
+--- Global MIDI ---
+love you
+my head
+the world
+now i want to me
+'cause i'm a little
+you can't just you and when they
+i can get
+and i'm here
+when the way down down with myself
+i don't have a little
+that she won't be just a man
+you
+now i can't you feel like a face
+we can do i said
+
+--- Aligned MIDI ---
+love
+the end
+i'm not i don't and the moon
+i feel it was the end of the
+day and the world this to show
+you don't need you you
+'cause is what
+i can't and love and it now
+we are a life come back down
+i'm not say i do the love can
+be i think it's in me
+i can't the
+
+================================================================================
+Artist: al wilson
+Title: show and tell
+Start word: night
+
+--- Baseline ---
+night
+but my way you can't go on a
+game
+you see the way
+you
+and you want the road you want
+i saw your eyes when and a fool
+i can't you can't never get to get
+no the sun
+it
+and they can you can do
+we know what i'm going for a friend
+you want me
+we
+i
+
+--- Global MIDI ---
+night and you come at love you got
+you i need
+i'm not always there
+i'm gonna see in your head your hands
+you feel right
+but you got you see a big
+the end the world that i've got you
+and you see me
+you and you can be a song of
+my heart
+and i've been long
+if i'm gonna break it just a man
+we used
+
+--- Aligned MIDI ---
+night
+oh baby
+but so many
+what you feel inside
+that was real shady
+so i want you
+i know i'm so long to be the
+best friend i see out
+just the only one
+you want to me
+it's it out all the things i'm a
+new
+and all i can
+and a new the night
+so long
+what you can tell
+
+================================================================================
+Artist: al wilson
+Title: show and tell
+Start word: baby
+
+--- Baseline ---
+baby
+you
+i don't get too much it
+when the sun suppper gonna be
+i've got my
+the one little girl
+and the world
+you see i need the world
+and i never had a dream i will
+you were my world
+and a place you
+we could love you were the night
+and they to your way
+if i love
+
+--- Global MIDI ---
+baby
+i feel like you
+we can take me
+and i don't come down
+i will you can the good
+i don't do you can't give you know
+you got to you can love you see
+you and i won't you see
+but
+you and i think you're gonna make me
+now
+it's not a dream of you can i
+got to you don't like
+
+--- Aligned MIDI ---
+baby
+now
+but this world
+don't give my
+don't think i won't i won't get
+and the sun
+i think you i think i'd
+it's
+and you come to you won't see
+you know
+i can a man just want to be
+when i feel me i say me
+and you do it don't get the same
+way you won't be gone
+we were here
+
+================================================================================
+Artist: celine dion
+Title: because you loved me
+Start word: love
+
+--- Baseline ---
+love
+but this time
+but i don't you don't let me like
+the time
+i don't have known your hands that he
+looked in one time
+the sun is a fool that we can
+find you see at me
+you're a day
+oh i can go back in the time
+it's a little
+i was
+don't be
+so lonely
+and that she won't find
+
+--- Global MIDI ---
+love in here
+i'm in sight with you can do me
+oh oh oh yeah that you can get
+when you say
+we can dance
+i've been a woman
+that
+i'm in the night
+i think
+i've gotta say it's a woman
+it's my
+i never knew it was
+and love you feel it you see
+if i see me
+this
+you
+we can i
+
+--- Aligned MIDI ---
+love you can
+don't you go
+i don't you
+that i can i do it to me
+for that i'm not a little of the
+rain i ever love the way to be
+you
+if you do
+it's a life
+and
+now
+the world in town
+i do a dream
+when i know
+i feel for the same is to have
+you say
+you
 
 ================================================================================
 Artist: celine dion
@@ -556,53 +562,54 @@ Title: because you loved me
 Start word: night
 
 --- Baseline ---
-night in your mind my love the world
-to make my mind
-it's so young
-if i got in your
-don't do it just you were the world
-oh oh yeah tonight on the way we
-have you feel
-i can do
-we don't know
-when i saw the heat
-i feel the one thing it's so lonely
-if if you
-'cause i never get your life
+night
+but this time time the world
+i can't see me down
+if you're just you do
+i can
+and the day
+when we got
+it's in her love you i want
+when the world
+and they just can't find for the one
+and they call the rain
+oh oh oh
+i've been here is the same the
 
 --- Global MIDI ---
-night we can ever wanted
-and the way you feel
-i do
-i can it takes
-when that
-i think what the night
-to you
-to have to see i was a man
-and go away my name
-oh oh
-i've always
-what you're
-it's too much of this dream
-'cause
-what you don't like no a man if
-it was there
+night fever
+but you
+i know the light of of what i'm
+the sun
+i want
+oh
+you
+i feel you are a face
+i say it a girl that you're so
+many i want to love for your own
+me a little
+i will you want to you got for
+this is a little you and i don't
+so fine
+but i need
+you want
 
 --- Aligned MIDI ---
-night is all your own
-and
-i will make me down into all the
-way you can't the way i was a
-child and i'm gonna be with her
-what
-i'm gonna break
-you can love me
-that i'm in a love is your love
-again
-if you're so i want to me
-when they can your love that i can
-you
-i've got the
+night night
+the end
+oh oh oh
+that you've made i don't be i know
+that
+and the time the end
+this love in my head me
+if my best have someone
+the way
+it's not you can find you can know
+so
+it's hard to make you
+'cause when you're so much your love for
+me i think i don't you can't make
+you can't go
 
 ================================================================================
 Artist: celine dion
@@ -611,52 +618,54 @@ Start word: baby
 
 --- Baseline ---
 baby
-so i can't be there are gone
-and the way the world
-it the good
-'cause i do to go on
-i am the world
-you know it's the good times night
-don't want all your own me
-'cause we're a song
+and your sweet
+i've seen just
+but i'm gonna get
+i'm the the morning
+you're a game one
 the sun
-and the the love no one day you're
-the only a dream with your heart
-i never gonna get
+'cause i have to the world my heart
+when a man
+now i got me so far
+when you're a girl i see
+i'm already to let the night oh if
+i just what
+if i can't leave my broken
+we go i can
 
 --- Global MIDI ---
-baby
-and it
-when i don't you make a little boy
-you see we never had the rain away
-in me
+baby and if i feel me oh you
+will
+oh yeah yeah
 that
-i do to your face
-you can say that way the sun of
-a woman just wanna be with a chance
-the truth
-if i'm gonna try to take your mind
-but
-i say i love is the only the
-night fever
-it's not do what you
+you and you
+you want you
+i'm in my own baby can't know that
+i can you make the way to go
+and you
+oh yeah
+i was a girl
+i'm a way my heart the night
+i can you see the world with me
+i see you
+if my own
 
 --- Aligned MIDI ---
-baby with
-and i know
-and the the only the fire is my
-heart
-and it's like a new the fire
-i've always
-oh it's you
-and then your mind
-i want to do you feel me
-i can't have of the sun
-you're on my eyes of my heart when
-the one man
-you're no time to hold her face the
-best
-oh yeah
+baby i'm too hot tonight
+i will it i love me
+i say
+and you can say
+now
+and you got the way that that
+i can i have known was here to
+keep away
+i don't want to go
+you're my
+oh oh
+the music
+you feel the morning it
+we do that i feel for the only
+time you don't you know
 
 ================================================================================
 Artist: dan fogelberg
@@ -664,54 +673,52 @@ Title: leader of the band
 Start word: love
 
 --- Baseline ---
-love
-what can you can't you make it all
-that i just a little time
-so good time my mind
-you know if i'm in the world
-i've waited me
-the sun don't want a dream
-when i'm not the the way you see
+love you know
+the world me
+and it's gonna find
+if the time
+we can't you don't know i don't you
+know
+i need to make to you want that
+i don't
+and i never
+it's so hard to make that you
+and that's no one time after my heart
 the night
-i'm
-and you don't want me
-you
-the sun
-i can't see the rain
-i'm gonna be the
+i need a dream
+we can't go
+if i'm not it
 
 --- Global MIDI ---
-love
-from of what
-and and said she knew me so the
-rest for that to have been gone
-i need you
-she you can see the way to
-i know
-she's me
-you to get to your girl
-i need to her name
-and said
-now
-and he was your body
-from the bottom
-i can a big
-i'm out for a
+love to see you
+it's it
+to say why to see you can you
+were the right
+it's it your way at
+i don't to you i say
+my friends to say me in my own
+to say
+i like the way
+to you know you you say
+to you i do you need to the
+fire my dreams and i've i feel like
+the last to
 
 --- Aligned MIDI ---
-love the best like a man and i
-don't i won't all the man and you're
-no more
-you are
-oh oh oh oh yes i don't you
-i love that
-well that i need you need
-but to her lonely eyes
-i just let
-we won't for a little
-my way for your chance home you are
-are the day
-i'm a life
+love no one love you know you love
+can do
+and it's you know i can't be so
+is it can
+and you see the love you want you
+don't you were gone and you go
+it's time
+i won't i love love
+the wind for my love
+and the nights
+i want to be
+oh yes to be there the music the
+best
+it's it
 
 ================================================================================
 Artist: dan fogelberg
@@ -719,57 +726,53 @@ Title: leader of the band
 Start word: night
 
 --- Baseline ---
-night
+night i can go
+so long
 and you
-i've been the morning
-it's not be with the man
-what
-if you
-that i will you were so
-i'm not the day
-so lonely room
-i can it it's so far the the
-night
-and you see you don't you know can
-be gone from the way my life is
-my heart
-the sun
-and he got your
+and the one i will you want you
+it's like a friend i don't you
+you're in your life come in your sweet
+don't see
+i will the man
+the man i feel all right now when
+we can be a new kid so bad
+you can't get in the love you
+i can be
+that the
 
 --- Global MIDI ---
 night
-i got out
-he she i want you
-it's me what
-it's
-and
-if
-she's the bottom like
-i need love the other it i think
-and she i can't you have i
-he wants
-now to me
-don't know that i need
-and you would the secret i would be
-a big
-she's in that she got that i can
-your way
+'cause
+my sweet to see my i got
+on my way
+it's to see
+i do
+so long
+i can
+to see you can show me
+on a face
+i say
+and it on
+it's it a day my life
+if that you don't you would never
+the the right
+so
+'cause if
+in the law her
 
 --- Aligned MIDI ---
-night my baby
-you're in the love
-you're in the the best
-you were all the end
-the end
-well
-if you're just a day a man with
-you
-i've got a the world the heat so
-i know
-you feel a life you you can your
-baby baby you know how you say you're
-never can be the same way the fire
-'cause my love
+night
+'cause is where we love
+it's gonna be with you don't
+and the day
+i've got to go
+i'm no matter you're i love
+i'm in the only you do you are
+people the way this is in love is
+i don't know i will
+we can't go and love you can't you
+but and you don't let you want me
+all you can your baby
 
 ================================================================================
 Artist: dan fogelberg
@@ -777,49 +780,49 @@ Title: leader of the band
 Start word: baby
 
 --- Baseline ---
-baby don't have to let it
-that a day
-i'm
-if you're a new
-oh baby you know the world a big
-it's not have i know what is it
-but it's not there you
-i don't be
-i feel i think
-it's no you i can it
-and i want a friend
-oh
-and the man that you
-and
+baby i have to take the way
+don't want it
+i'm a big me yeah
+so i don't
+but a whole in the night
+but
+i do that you can't be
+if the end
+we go
+and the same
+i got to be mine but it's a
+sign i'm not a dream
+i've just just like i want my heart
+if
+i don't you and
 
 --- Global MIDI ---
-baby girl don't got up that she
-and i'm out of my love for
-if i can't care it
-we i know how are
-you want to my sweet baby
-you to me
-then to me and it all the
-we will
-we are you want to know it's like
-i was love
-why and you to have a guy to
-you
+baby
+i said that
+that
+and
+oh yeah my heart for a girl
+it's too many me
+if i would see her in the world
+of you know to your lover lover me
+you know what you're i need
+the truth
+to to do
+it's it all again
+in your lover you you and i can't
+be at home me in a
 
 --- Aligned MIDI ---
-baby
-you're all the way
-you are very long
-i'll and i can't love my eyes
-'cause the old
-you make me
-i'm gonna see i got
-i'm gonna get you see
-i'm a new
-but they you you
-i love you got the my head
-my time
-well i think that the man
-we can say the world
-but you can't
+baby can't you can be free so lonely
+you know what the nights
+she i feel like they got
+oh oh
+i feel for me
+and the world
+i'm not the man you can't
+it's all the way you won't make you
+and i don't let me can make me
+is a little girl i'm no
+i'm never had the same
+and you're never had you
 
